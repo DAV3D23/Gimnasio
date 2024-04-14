@@ -1,0 +1,30 @@
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.csproj.GenerateResource.cache
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.AssemblyInfoInputs.cache
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.AssemblyInfo.cs
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\Gimnasio 1.0.exe
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\Gimnasio 1.0.deps.json
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\Gimnasio 1.0.runtimeconfig.json
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\Gimnasio 1.0.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\Gimnasio 1.0.pdb
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\refint\Gimnasio 1.0.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.pdb
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.genruntimeconfig.cache
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\ref\Gimnasio 1.0.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.csproj.AssemblyReference.cache
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio_1._0.frmPrincipal.resources
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio_1._0.frmIniSesion.resources
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio_1._0.frmNuevoRegistro.resources
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio 1.0.csproj.CopyComplete
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio_1._0.frmEditarRegistro.resources
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio_1._0.frmCrearUsuario.resources
+C:\Users\Jdavi\source\repos\Gimnasio 1.0\Gimnasio 1.0\obj\Debug\net8.0-windows\Gimnasio_1._0.Properties.Resources.resources
